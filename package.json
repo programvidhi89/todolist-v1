@@ -1,0 +1,24 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programvidhi89/todolist-v1.git"
+  },
+  "author": "vidhi rajvanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programvidhi89/todolist-v1/issues"
+  },
+  "homepage": "https://github.com/programvidhi89/todolist-v1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
