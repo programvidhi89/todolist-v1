@@ -12,6 +12,9 @@
   },
   "author": "vidhi rajvanshi",
   "license": "ISC",
+  "engines": {
+    "node": "16.13.2"
+  },
   "bugs": {
     "url": "https://github.com/programvidhi89/todolist-v1/issues"
   },
